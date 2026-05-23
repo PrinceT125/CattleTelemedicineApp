@@ -1,10 +1,10 @@
-# 🐄 CATTLE TELEMEDICINE APPLICATION
+# CATTLE TELEMEDICINE APPLICATION
 
 A Flutter-based mobile healthcare application developed for cattle owners and veterinarians. The application provides online veterinary consultation services and digital cattle healthcare management using Firebase as the backend service.
 
 ---
 
-# 📖 Introduction
+# Introduction
 
 The **Cattle Telemedicine Application** is a mobile-based healthcare platform developed using **Flutter** and **Firebase** technologies. The application is designed to provide digital healthcare services for cattle owners by connecting them with registered veterinarians through an online platform.
 
@@ -22,7 +22,7 @@ Firebase is used as the backend service for:
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 The major objectives of the project are:
 
@@ -35,7 +35,7 @@ The major objectives of the project are:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 ## Frontend Technology
 - Flutter Framework
@@ -52,13 +52,13 @@ The major objectives of the project are:
 
 ---
 
-# 📂 System Modules
+# System Modules
 
 The application is divided into three major modules:
 
 ---
 
-## 1️⃣ Cattle Owner Module
+##  Cattle Owner Module
 
 This module is designed for cattle owners. The cattle owner can register and log in to the application using email and password authentication.
 
@@ -68,7 +68,7 @@ After successful login, users can:
 - Book consultations
 - Communicate with veterinarians through chat
 
-### ✨ Features
+### Features
 - User Registration and Login
 - Add and Manage Cattle Information
 - Book Veterinary Consultations
@@ -78,13 +78,13 @@ After successful login, users can:
 
 ---
 
-## 2️⃣ Veterinarian Module
+##  Veterinarian Module
 
 The veterinarian module allows veterinarians to register themselves on the platform.
 
 After registration, the administrator verifies and approves the veterinarian account. Approved veterinarians can communicate with cattle owners and provide medical consultation.
 
-### ✨ Features
+###  Features
 - Veterinarian Registration
 - Admin Verification System
 - View Consultation Requests
@@ -93,11 +93,11 @@ After registration, the administrator verifies and approves the veterinarian acc
 
 ---
 
-## 3️⃣ Admin Module
+##  Admin Module
 
 The administrator manages the overall activities of the system.
 
-### ✨ Features
+###  Features
 - Approve or Reject Veterinarian Accounts
 - Manage Users
 - Monitor Application Activities
@@ -105,9 +105,9 @@ The administrator manages the overall activities of the system.
 
 ---
 
-# 🔥 Firebase Services Used
+#  Firebase Services Used
 
-## 🔐 Firebase Authentication
+##  Firebase Authentication
 
 Firebase Authentication is used for secure user login and registration.
 
@@ -120,7 +120,7 @@ are authenticated using Firebase.
 
 ---
 
-## ☁️ Cloud Firestore
+##  Cloud Firestore
 
 Cloud Firestore is used as the primary database for storing:
 
@@ -136,7 +136,7 @@ Firestore provides:
 
 ---
 
-# 🗂 Project Structure
+#  Project Structure
 
 ```bash
 lib/
@@ -160,7 +160,7 @@ lib/
 
 ---
 
-# ⚙️ Working of the System
+#  Working of the System
 
 1. The user installs and opens the application.
 2. The user registers as either a cattle owner or veterinarian.
@@ -171,7 +171,7 @@ lib/
 
 ---
 
-# 🚀 Installation Procedure
+#  Installation Procedure
 
 ## Step 1: Clone the Repository
 
@@ -197,7 +197,7 @@ flutter pub get
 
 ---
 
-# 🔧 Firebase Configuration
+#  Firebase Configuration
 
 ## Step 1: Create Firebase Project
 
@@ -239,7 +239,7 @@ flutter pub get
 
 ---
 
-# ▶️ Run the Application
+#  Run the Application
 
 ```bash
 flutter run
@@ -247,7 +247,7 @@ flutter run
 
 ---
 
-# 📱 Application Screens
+#  Application Screens
 
 The application contains the following screens:
 
@@ -263,7 +263,7 @@ The application contains the following screens:
 
 ---
 
-# 🔒 Security Features
+#  Security Features
 
 The application implements several security features such as:
 
@@ -274,7 +274,7 @@ The application implements several security features such as:
 
 ---
 
-# ✅ Advantages of the System
+#  Advantages of the System
 
 - Easy access to veterinary consultation
 - Reduces travel cost and time
@@ -284,7 +284,7 @@ The application implements several security features such as:
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 The following features can be added in future versions:
 
@@ -297,7 +297,7 @@ The following features can be added in future versions:
 
 ---
 
-# 🏁 Conclusion
+#  Conclusion
 
 The **Cattle Telemedicine Application** is an efficient and user-friendly healthcare platform developed for cattle owners and veterinarians.
 
